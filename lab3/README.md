@@ -1,0 +1,1 @@
+Laboratory, which uses the methods of Euler and Hoyne to solve the differential equation of harmonic oscillations using the C++ language and drawing graphs of the phase diagram, the equation of motion and the dependence of energy on time using matplotlib Python
