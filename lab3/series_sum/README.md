@@ -1,0 +1,1 @@
+The sum of the "1/2**n" series in the two data types (double and float) was calculated (the code is presented in the series_sum.cpp file). When calculating, it turned out that in both cases the answer coincides with the real one, which, apparently, is strange and incorrect, but i could not find the error.
