@@ -58,6 +58,6 @@ int main()
         hoin(coord);
         if(time % c == 0){output(coord, time);};
     }
-    system("python graph.py");
+    system("python3 graph.py");
     return 0;
 }
